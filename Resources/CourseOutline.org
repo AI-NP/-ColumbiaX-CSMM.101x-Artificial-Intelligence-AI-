@@ -1,0 +1,101 @@
+* Course Outline
+** Welcome to Artificial Intelligence!
+
+In this course, you will learn the fundamental concepts of Artificial Intelligence (AI) and apply them to the design and implementation of intelligent agents that solve real-world AI problems, including problems in search, games, machine learning, logic, and constraint satisfaction.
+
+We will provide a broad understanding of the basic techniques for building intelligent computer systems.  Topics include the history of AI, intelligent agents, state-space problem representations, uninformed and heuristic search, game playing and adversarial search, logical agents, constraint satisfaction problems, along with techniques in machine learning and other applications of AI, such as natural language processing (NLP).
+
+** Course Level
+
+Please note this is a Master’s/graduate level course. Expect to spend at least several hours to complete the programming assignments, although the exact amount of time will depend on your background and proficiency with coding. If you are taking this course for fun, and are not working towards a passing grade for credit, you can, of course, watch the lectures and answer the quizzes.
+
+** Prerequisites
+
+Students are required to have the following prerequisites:
+
+                Linear algebra (vectors, matrices, derivatives)
+                Calculus
+                Basic probability theory
+                Python programming
+
+The course offers an excellent opportunity for students to dive into Python while solving AI problems and learning its applications. Programming assignments will be in Python.
+
+** Class Schedule
+
+This is a 12-week course and the weekly materials will be released on a Monday. Each week includes lectures, supplemental materials, as well as assignments. Please note that edX courses use Coordinated Universal Time (UTC) for all due dates and release times.
+
+Week 1: Introduction to AI, history of AI, course logistics, and roadmap
+
+Week 2:  Intelligent agents, uninformed search
+
+Week 3: Heuristic search, greedy search, A* algorithm, stochastic search
+
+Week 4: Adversarial search, game playing
+
+Week 5: Machine Learning 1: basic concepts, linear models, K nearest neighbors, overfitting
+
+Week 6: Machine Learning 2: perceptrons, neural networks, naive Bayes
+
+Week 7: Machine Learning 3: Decision trees, ensemble, logistic regression, and unsupervised learning
+
+Week 8: Constraint satisfaction problems
+
+Week 9: Markov decision processes, reinforcement learning.
+
+Week 10: Logical agents, propositional logic and first order logic
+
+Week 11: AI applications to natural language processing (NLP)
+
+Week 12: AI applications and course review
+
+** Assignments
+
+There will be two kinds of assignments:
+
+Quizzes (conceptual): These test your understanding of the lectures. You may be asked to reason abstractly about the nature of an algorithm, or to perform a technique by hand on an small problem. Please read the instructions carefully, note any formatting requirements, and review your answers before hitting submit. Except for the most challenging questions, you will often only have one attempt to answer a question.
+
+Projects (programming): These offer an excellent opportunity for you to dive into Python programming and design while solving AI problems and learning its applications. You will often be presented with a general problem and asked to come up with solutions to the problem by implementing algorithms from scratch. As mentioned above, expect to spend at least several hours to complete the programming assignments.
+
+** Grading
+
+Quizzes (20%): There will be 11 quizzes worth 2% each for a total of 20%. The lowest score will be dropped.
+
+Projects (50%): There will be 5 projects in Python worth 10% each for a total of 50%. All projects count.
+
+Final Exam (30%): There will be a final exam one week after the last lecture.
+
+** Passing Grade
+
+To pass the course, you must score 60% or above.
+
+** Honor Code
+
+Academic Honesty Policy
+
+You are required to read, and understand the following agreement regarding Academic Honesty. Each student is sole owner of his own code and work and must NOT:
+
+        Submit work that is not original.
+        Publish code or solutions online.
+        Post the course questions on forums including stack overflow.
+        Submit someone else’s work, or a modification of that work, with or without that person’s knowledge.
+        Allow someone else to submit his/her work, or a modification of that work.
+        Solve as a group a quiz or project. All coursework is to be done by the student working alone.
+        Contract course work out to others.
+        Plan or execute with another student a cooperative subterfuge during an exam.
+        Make use of unauthorized material during an exam.
+
+Project assignments will be checked with plagiarism detection software.
+
+Thank you for abiding by these rules. Doing so will ensure the experience is fair to everyone taking this class or the future sessions of this class.
+
+** Suggested Readings
+
+We recommend but do not require this book, which is the main reference in the field:
+
+Artificial Intelligence, A Modern Approach. Stuart Russell and Peter Norvig. Third Edition. Pearson Education. Check out the book resources
+
+ • http://aima.cs.berkeley.edu/
+
+Check out the list of readings, useful links we suggest for this course.
+
+Enjoy and wishing you all a wonderful learning journey!

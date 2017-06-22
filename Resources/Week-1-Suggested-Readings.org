@@ -1,0 +1,10 @@
+* Week 1: Suggested Readings
+** Artificial Intelligence: A Modern Approach, 3rd Edition Russell & Norvig.
+
+Please note: This book is strongly suggested but is not mandatory to complete the course.
+
+** Is Artificial Intelligence Permanently Inscrutable?
+
+http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable.
+
+This article talks about model correctness versus interpretability, which is a very important "higher-level" concept.

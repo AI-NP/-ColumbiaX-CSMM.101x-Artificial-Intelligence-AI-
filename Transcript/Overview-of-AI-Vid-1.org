@@ -1,0 +1,156 @@
+Hi, everyone,
+it's really a pleasure to welcome you all to artificial intelligence or AI course.
+In this lecture, we'll review the what, the why, and
+the who of AI along with AI applications and history.
+We'll also review some course logistics and roadmap.
+So welcome again and let's get started.
+First of all, AI has always intrigued people.
+And has been the topic of TV shows and movies for decades.
+For example, conversing with a computer using natural language has always been
+a dream for humanity.
+And seen in TV, such as Space Odyssey.
+AI is actually an active and attractive field for
+the movie making industry in many ways.
+It is the perfect kind of topic to craft thrillers, adventures and dramas.
+And keep people on the edge of their sofa.
+Remember Terminator, AI, Her, Space Odyssey and
+HAL, Ex machina and so on and so forth.
+There have been several attempts to define artificial intelligence.
+But let's start with the most basic definition of intelligence,
+according to the Webster dictionary.
+It's the ability to learn and solve problems.
+This is a definition independently of whether it's Human intelligence or
+machine intelligence.
+Artificial intelligence, according to Wikipedia,
+is the intelligence exhibited by machines or software.
+We're being more specific here, and talking about machines and
+software that show signs of intelligence.
+More specifically, according to McCarthy, who is one of the pioneer of artificial
+intelligence, and who even coined the term AI.
+It's the science and engineering of making intelligent machines.
+And finally, the definition we adopt in this course is coming from Russell and
+Norvig the authors of the famous artificial intelligence book.
+Artificial intelligence is the study and design of intelligence agents
+where an intelligent agent is a system that perceives it's environment and
+takes actions that maximizes its chances of success.
+This is the most specific definition of all, in which we are talking about
+intelligence agents and the fact that they perceive their environment and
+act upon that environment to maximize their chances of success.
+This is a definition that we will adopt in this course.
+So why artificial intelligence?
+I would like to refer to this quote from Andrew Ng,
+who is an active researcher in artificial intelligence and machine learning.
+Who said that just as the industrial revoluton freed up a lot of humanity from
+physical drudgery.
+I think AI has the potential to free up
+Humanity from a lot of the mental drudgery.
+So, this is beautiful, because it just puts
+artificial intelligence as a second kind of revolution from Humanity.
+So, what is artificial intelligence?
+There's four schools of thought, according to Russell and Norvig.
+The first one is about thinking humanly.
+In which, several researchers defined it as, how to make computers have a mind,
+or think.
+One of them is Haugeland in 1985 who said
+that it is the exciting new efforts to make computers think.
+Machines with minds in the full and literal sense.
+The second school of thought is about acting humanly as defined by Rich and
+Knight in 1991.
+As the study of how to make computers do things,
+which at the moment people are better at.
+The third school of thought is about thinking rationally in which we want to
+study the mental faculties through the use of computational models.
+So we started talking about computational models to mimic the brain or
+mimic our mental faculties.
+And finally,
+the last school of thought is about acting rationally as defined by Poole et al.
+in 1998.
+Which is, computational intelligence is the study and
+the design of intelligent agents.
+So we start talking about intelligent agents in 98,
+in which we want to design those systems.
+We don't talk any more about making the machine have a mind or
+making the machine think rationally, or making the machine act humanly.
+We want the machine to act rationally rather than humanly.
+So first of all, let's go through this schools of thought individually.
+The first school is about thinking humanly.
+Also called the cognitive approach in which we want to design machines,
+with what?
+With minds, machines that think in the full and literal sense.
+This requires first to determine how humans think.
+It was actually in the 60s when this kind of cognitive revolution started.
+It requires scientific theories of internal activities of the brain,
+answer questions like what level of abstractions.
+Is it knowledge or circuits and how to validate the knowledge.
+Today, cognitive science and artificial intelligence are distinct disciplines and
+we really don't want to have machines with minds.
+We want to understand how brains function.
+This is part of the cognitive science field.
+The second school of thought is about acting humanly.
+In which case, we want to have machines do things just like humans, do things.
+And this school of thought, started with Alan Turing in 1950.
+When he published his paper, Computing Machinery and Intelligence,
+in which he defined what we call the Turing Test, or the Imitation Game.
+In his test, he actually deem a computer
+to be passing a test of intelligence if it can fool a human interrogator.
+So to picture this, we have a human interrogator on one side and there is
+wall separating this human interrogator from another human and another AI system.
+So the human interrogator would be asking questions to the other side of the wall.
+And the AI system would be deemed as intelligent if
+the human interrogator can't tell which is the AI system from which is the human.
+So it says that it fooled the human interrogator and it showed to exhibit some
+form of intelligence because it was able to do that.
+So in his paper, Alan Turing also suggested major components of AI including
+knowledge, reasoning, language understanding and learning.
+He also suggested in his paper major components of AI including knowledge,
+reasoning, language, understanding and learning.
+And he finally anticipated many of the problems or
+many arguments against AI that's coming up in the next 50 years.
+Acting humanly or making machines do things
+has actually inspired many discoveries, including flying.
+So flying is one example in which actually we
+made the machine do things based on what we observe in humans and in animals.
+For example we know that birds can fly so
+the concept of flying, the proof of concept is out there.
+We know it's possible to fly but
+then the process to fly has been invented by humans.
+And we don't see airplanes flapping their wings :),
+however airplanes use similar, have the same effect of flying using different
+principles including aerodynamics processes, etc, etc.
+So acting humanly has inspired discoveries even though the process at
+the end has been different from what we observe in nature.
+The third school of thought also called thinking rationally, or
+laws of thoughts, involves using math and logic to do artificial intelligence.
+It's about codifying the right thinking with logic.
+And it all started with several Greek schools that developed various forms of
+logic.
+Such as first order of logic, propositional logic and more.
+It uses some notations and rules of inference or derivations for thoughts.
+And the idea is to use/codify all knowledge in this representation and
+use it to derive new knowledge.
+The problems with this,
+is that first of all not all knowledge can be expressed with logical formulations.
+Sometimes, for example, to express time or space.
+It's hard and can lead to complicated logical formulas for that.
+And finally, it also leads to computational blow up,
+if you want to consider all possible factors that come into play with logic.
+If you want to use all possible factors that come into play with logic.
+And finally the last school of thought is about acting rationally,
+design intelligent systems that actually act to maximize their goal.
+It's about agents that do the right thing, that which is actually expected to
+maximize the goal achievement giving the available information about
+the environment, the background knowledge, etc.
+So we want to devise in this school of thought rational agents,
+that is actually one that acts to achieve the best outcome and
+when there is a scholastic environment it means uncertainty.
+Want to achieve the best expected outcome given these agents.
+And so we quote here Aristotle when he said.
+Every art and every inquiry, and similarly every action and
+pursuit, is thought to aim at some good.
+This is exactly the spirit of this school of thoughts in designing
+intelligent agents.
+Finally, in this course, we're going to adopt the fourth line of research or
+fourth line of thoughts.
+Which is acting rationally.
+Or how to divide intelligence systems that act rationally in order to achieve
+their goals.

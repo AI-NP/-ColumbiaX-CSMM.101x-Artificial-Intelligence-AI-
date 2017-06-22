@@ -1,0 +1,83 @@
+* Syllabus
+** Week 1: Introduction to AI
+
+    - Week 1: Suggested Readings
+    - 1.1 Overview of AI
+    - 1.2 Applications of AI
+    - 1.3 AI Foundation and History
+    - 1.4 Course Overview
+    - Week 1 Quiz: Introduction to AI(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 1 Discussion Questions
+
+** Week 2: Intelligent Agents and Uninformed Search
+
+    - 2.1 Intelligent Agents
+    - 2.2 Search Agents
+    - 2.3 Uninformed Search
+    - 2.4 Uninformed Search Examples
+    - Week 2 Quiz: Uninformed Search(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 2 Project: Search Algorithms(Project due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 2 Discussion Questions
+
+** Week 3: Heuristic Search
+
+    - 3.1 Heuristics and Greedy Search Algorithm
+    - 3.2 A* Search and Optimality
+    - 3.3 Search Algorithms Recap
+    - 3.4 Local Search
+    - Week 3 Quiz: Heuristic Search(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 3 Discussion Questions
+
+** Week 4: Adversarial Search and Games
+
+    - Week 4 Suggested Readings
+    - 4.1 Adversarial Search and Games
+    - 4.2 Minimax algorithm
+    - 4.3 Alpha-Beta Pruning
+    - 4.4 Stochastic games
+    - Week 4 Quiz: Adversarial Search and Games(Quiz due Jul 23, 2017 05:45 +0545 This content is graded)
+    - Week 4 Project: Adversarial Search and Games(Project due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 4 Discussion Questions
+
+** Week 5: Machine Learning 1
+
+    - Week 5: Suggested Readings
+    - 5.1 Machine Learning Concepts
+    - 5.2 K-nearest Neighbors and Training-Testing
+    - 5.3 Overfitting-Underfitting and Regularization
+    - 5.4 Linear Models for Regression
+    - Week 5 Quiz: Machine Learning(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 5 Discussion Questions
+
+** Week 6: Machine Learning 2
+
+    - Week 6: Suggested Readings
+    - 6.1 Machine Learning: Perceptron
+    - 6.2 Logistic Regression
+    - 6.3 Decision Trees
+    - 6.4 Naive Bayes
+    - 6.5 Ensemble Methods
+    - Week 6 Quiz: Machine Learning 2(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 6 Discussion Questions
+
+** Week 7: Machine Learning 3
+
+    - Week 7: Suggested Readings
+    - 7.1 Neural Networks
+    - 7.2 Clustering
+    - 7.3 Association Rules
+    - Week 7 Quiz: Machine Learning 3(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 7 Project: Machine Learning(Project due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 7 Discussion Questions[(Online TA Session (June 14th, 2017 from 1p.m.~2p.m.))(Online TA Session (June 17th, 2017 from 10 a.m.~ 11p.m. EST))]
+    - Practice Proctored Exam
+
+** Week 8: CSP
+
+    - Week 8: Suggested Readings
+    - 8.1 Constraint Satisfaction Problems
+    - 8.2 Cryptarithmetic Puzzle
+    - 8.3 Backtracking
+    - 8.4 Constraint Propagation
+    - 8.5 Problem Structure
+    - Week 8 Quiz: CSP(Quiz due Jul 24, 2017 05:15 +0545 This content is graded)
+    - Week 8 Discussion Questions

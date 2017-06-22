@@ -1,0 +1,67 @@
+* Week 1 Quiz: Introduction to AI
+
+#+NOTE:Read these two articles which complement Week 1 lectures. They are excellent sources of information about AI, containing interesting and  informative reference. Then answer the following questions.
+#+Links 1. Preparing for the Future of Artificial Intelligence. Executive Office of the President, National Science and Technology, Council Committee on Technology. October 2016.
+#+Links 2. Computing Machinery and Intelligence. Alan Turing, 1950.  http://www.turingarchive.org/browse.php/B/9
+** Week 1 HW Assignment
+
+*** 1. What definition of Artificial Intelligence is not mentioned in today's lecture:
+    [] The ability to learn and solve problems
+    [] The intelligence exhibited by machines or software
+    [] The branch of Computer Science dealing with the creation of autonomous systems better at solving hard problems than humans.
+    [] The science and engineering of making intelligent machine
+    [] The study of design of intelligent agents which can perceives its environment and take actions maximizing its chances of success.
+
+*** 2. The term Artificial Intelligence was coined by McCarthy at Dartmouth meeting in 1956.
+    [] True
+    [] False
+
+*** 3. Which of the following is a school of thought for the question "What is AI?"
+    [] Acting Emotionally
+    [] Thinking Morally
+    [] Thinking Creatively
+    [] Thinking Randomly
+    [] Acting Rationally
+    [] Acting Randomly
+
+*** 4. Which of the following is not an AI applications mentioned in the lecture:
+    [] Speech/Handwriting Recognition
+    [] Machine Translation
+    [] Interstellar Transportation
+    [] Recommendation Systems
+    [] Face Detection/Recognition
+    [] Autonomous Driving
+
+*** 5. There are two kinds of non-adverserial search agents: Informed Search and Random Search. True or False ?
+    [] True
+    [] False
+
+*** 6. A binary classification data problem is different from a clustering data problem in that the dataset under the clustering problem has labels. True or False ?
+    [] True
+    [] False
+
+*** 7. Which of the following discipline is mentioned in the lecture as the foundation of AI
+    [] Physics
+    [] Areospace Engineering
+    [] English literature
+    [] Machine Learning
+    [] Neural Networks and Deep Learning
+    [] Economics
+
+*** 8. The imitation game is proposed by Alan Turing to test whether a machine can convince a human interogator into believing that it is human.
+    [] True
+    [] False
+
+*** 9. Artificial Intelligence has the potential to address societal challenges in many areas. Which of the following areas was not mentioned in “Preparing the Future of Artificial Intelligence?”
+    [] Smart Vehicles
+    [] Precision Medicine
+    [] Smart Buildings
+    [] Smart Government
+    [] Smart Communication
+
+*** 10. In "The Imitation Game" paper, Alan Turing admitted the diffculties of answering the question "Can machines think," and he proposed an alternate question. Which question from the following did he suggest?
+    [] Can computers solve computational problems efficiently?
+    [] Can agents behave rationally?
+    [] Is artificial intellgience feasible?
+    [] Is Turing Machine the best AI?
+    [] Can a machine behave intelligently so that a human interrogator can not tell whether it is a human or a machine?
